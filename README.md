@@ -1,1 +1,2 @@
 # CryptoClustering
+I used previous lessons, peers, chat gpt, and stackoverflow to complete this analysis. I started with using kmeans creating an elbow graph and picking 4 to run my first analysis. PCA was next, and utilized 3 clusters totaling 89.5% and also 4 with an elbow graph. Then graphed the pca df and there were so few points it made it harder to see the clusers, where as the first graph was easier with more points. Price change % does look to go up within the 7 day time frame, but is not as affected by the 24hour timeframe.
